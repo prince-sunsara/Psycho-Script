@@ -20,7 +20,7 @@ With a **user-friendly interface** and **real-time transformations** powered by 
 ---
 
 ## 🌍 Live Demo  
-👉 [**psycho-script.vercel.app**](https://psycho-script.vercel.app)  
+👉 [**Psycho Script**](https://psycho-script.vercel.app)  
 
 _(If the demo doesn’t display properly, ensure static files are configured correctly on Vercel.)_  
 
